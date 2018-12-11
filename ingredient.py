@@ -1,7 +1,16 @@
+carrots = 10
+
+
+
+
+
+
+
+
+
+
 # CLASSES AND OBJECT-ORIENTED PROGRAMMING
 class Ingredient:
-
-    amount: int
 
     def __init__(self, name, amount):
         self.name = name
@@ -17,4 +26,5 @@ class Ingredient:
             return self.amount
 
     def __str__(self):
+        # STRING FORMATTING
         return f'You have {self.amount} left of {self.name}.'
