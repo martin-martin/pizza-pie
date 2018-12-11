@@ -2,7 +2,26 @@
 
 What you need to know to get started working with Python
 
+## Most important concepts
 
+0) The world of `pip install`
+    - Packages
+
+1) Python for scripting
+    - Variables
+    - Datatypes
+    - Operators
+    - Functions
+    
+2) Object-oriented Python
+    - Classes
+    - Methods
+    - Instances
+    
+
+    
+    
+    
 ------------------
 * Why Learn Python
 * CodingNomads Online Learning Portal
