@@ -39,7 +39,6 @@ What you need to know to get started working with Python
 * Creating Python Objects
 * Creating a custom `__str__()` method
 * Python Constructors `__init__()`
-* Overloading Constructors
 * Python Methods
 * Method Parameters
 * Return Values
