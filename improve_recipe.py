@@ -22,8 +22,13 @@ print(ing_dict)
 ing_dict.pop('olive_oil')
 ing_dict.pop('garlic_cloves')
 
+def add_amount(ingredient_dict, ingredient, amount):
+    """Adds to the amount of the specified ingredient."""
+    ingredient_dict[ingredient] = ingredient_dict.get(ingredient, 0) + amount
+    return ingredient_dict
+
 for key, value in ing_dict.items():
-    ing_dict[key] = value * 2
+    ing_dict = add_amount(ing_dict, key, value)
 
 print(ing_dict)
 

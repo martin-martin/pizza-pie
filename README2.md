@@ -17,11 +17,11 @@ Project for CodingNomads' Python Webinar
 ## The Pizza project
 
 * Create project, mention `venv`s
-* Make the file `food.py`
+* Make the file `ingredient.py`
 * **OOP**
     * In file: Create `Ingredients` class with `name`
         !!!! need to have **arguments** somewhat understood !!!!
-        * Talk about strings, maybe mention that other languages have a char type but python doesn`t deal with this. Introduce that each letter can be accessed with it´s position in the string. Possibly introduce loops.
+        * Talk about strings Introduce that each letter can be accessed with it´s position in the string. Possibly introduce loops.
         * Console: make some ingredients (carrots, potatoes, peas, tomatoes)
         * Learned: datatypes: strings, variables
         * Learning: loops, OOP / classes

@@ -11,6 +11,7 @@ What you need to know to get started working with Python
     - Variables
     - Datatypes
     - Operators
+    - Conditionals
     - Functions
     
 2) Object-oriented Python
